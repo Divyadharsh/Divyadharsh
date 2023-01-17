@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varsharamesh82&show_icons=true&locale=en&theme=merko" alt="varsharamesh82" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varsharamesh82&&theme=merko" alt="varsharamesh82" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varsharamesh82&&theme=merko" alt="varsharamesh82" /></p> 
