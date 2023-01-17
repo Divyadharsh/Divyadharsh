@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<h1> Hello! I'm <a href="https://github.com/varsharamesh82"> Divyadharshini Muruganandham <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px" height="50px"/></h1>
+<h1> Hello! I'm <a href="https://github.com/Divyadharsh"> Divyadharshini Muruganandham <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px" height="50px"/></h1>
 <Br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
