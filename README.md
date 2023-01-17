@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h1> Hello! I'm <a href="https://github.com/Divyadharsh"> Divyadharshini Muruganandham <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px" height="50px"/></h1>
 <Br>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Data+Scientist;I'm+a+Data+Analyst;I'm+a+Machine+Learning+Engineer;I'm+a+Software+Developer;Python%20|Data+Structures%20|%20Algorithms%20|%20SQL %20|%20Mathematics%20|;Experimenting%20with%20Data%20and%new%20technologies&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Data+Scientist;I'm+a+Data+Analyst;I'm+a+Machine+Learning+Engineer;I'm+a+Software+Developer;Python%20|Data+Structures%20|%20Algorithms%20|%20SQL %20|%20Mathematics%20|;Experimenting%20with%20Data%20and%new%20technologies&center=true&width=1000&height=50"></a>
+   
 </p>
 </div>
 <div align="left">
