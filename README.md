@@ -1,4 +1,4 @@
-![logo]([https://github.com/Divyadharsh/Divyadharsh/blob/main/Black%20Technology%20LinkedIn%20Banner%20(4).png)
+![logo](https://github.com/Divyadharsh/Divyadharsh/blob/main/Black%20Technology%20LinkedIn%20Banner%20(4).png)
 
 **Divyadharsh/Divyadharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
