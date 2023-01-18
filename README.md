@@ -11,7 +11,7 @@
 
 👩🏻‍💻 About Me:
 
-👩🏻‍🎓 - Pursuing Masters in Computer Science with specialization in Machine Learning, Data Science and Artificial Intelligence at the Northeastern University.<br />
+👩🏻‍🎓 - Masters in Computer Science with specialization in Machine Learning, Data Science and Artificial Intelligence at the Northeastern University.<br />
 🔭 - Passionate on Algorithms, Bringing interesting fact out of data, Automation, learning new Technologies. <br />
 🌱 - Calm, Composed, Deterministic, Highly motivated, Confident individual. <br />
 🤔 - Always thinks about goals and dreams of life. <br />
