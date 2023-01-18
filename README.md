@@ -30,7 +30,7 @@
 
 <p align="center">
     <img src="https://github.com/varsharamesh82/varsharamesh82/blob/main/coding.gif" width="350" height="350" alt="varsha" />
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="350" height="350" />
+    <img src="https://github.com/Divyadharsh/Divyadharsh/blob/main/0_Yb_BsikIKFAtuKj9.gif" width="350" height="350" />
 </p>
 
 ### 🧑🏻‍💻 Languages and Tools
