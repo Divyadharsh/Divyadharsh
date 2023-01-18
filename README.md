@@ -1,19 +1,5 @@
 ![logo](https://github.com/Divyadharsh/Divyadharsh/blob/main/Black%20Technology%20LinkedIn%20Banner%20(4).png)
 
-**Divyadharsh/Divyadharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 <h1> Hello! I'm <a href="https://github.com/Divyadharsh"> Divyadharshini Muruganandham <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px" height="50px"/></h1>
 <Br>
@@ -22,10 +8,20 @@ Here are some ideas to get you started:
 </p>
 </div>
 <div align="left">
+
+👩🏻‍💻 About Me:
+
+👩🏻‍🎓 - Pursuing Masters in Computer Science with specialization in Machine Learning, Data Science and Artificial Intelligence at the Northeastern University
+🔭 - Passionate on Algorithms, Bringing interesting fact out of data, Automation, Technology
+🌱 - Calm, Composed, Deterministic, Highly motivated, Confident individual
+🤔 - Always thinks about goals and dreams of life
+💬 - Ask me about Data science, Math, Algorithms, Food, Coffee, Hot Chocolate, Fitness, Music, Art, Content Creation, Travel, Photography
+⚡ - Fun fact: Eat cheese cake, chocolate and go to gym (repeat mode)  
+😄 - Pronouns: she/her
    
-<h3>📬 Connect with me</h3>
+<h3> 📫 Connect with me </h3>
 <p align="left">
-    <a href="https://linkedin.com/in/varsha-ramesh-621647172" target="blank">
+    <a href="https://linkedin.com/in/muruganandhamd/" target="blank">
         <img align="center" src="https://img.shields.io/badge/Varsha Ramesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:varsharamesh82@gmail.com" target="blank">
         <img align="center" src="https://img.shields.io/badge/varsharamesh82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
