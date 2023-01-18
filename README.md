@@ -11,13 +11,13 @@
 
 👩🏻‍💻 About Me:
 
-👩🏻‍🎓 - Pursuing Masters in Computer Science with specialization in Machine Learning, Data Science and Artificial Intelligence at the Northeastern University
-🔭 - Passionate on Algorithms, Bringing interesting fact out of data, Automation, Technology
-🌱 - Calm, Composed, Deterministic, Highly motivated, Confident individual
-🤔 - Always thinks about goals and dreams of life
-💬 - Ask me about Data science, Math, Algorithms, Food, Coffee, Hot Chocolate, Fitness, Music, Art, Content Creation, Travel, Photography
-⚡ - Fun fact: Eat cheese cake, chocolate and go to gym (repeat mode)  
-😄 - Pronouns: she/her
+👩🏻‍🎓 - Pursuing Masters in Computer Science with specialization in Machine Learning, Data Science and Artificial Intelligence at the Northeastern University.<br />
+🔭 - Passionate on Algorithms, Bringing interesting fact out of data, Automation, learning new Technologies. <br />
+🌱 - Calm, Composed, Deterministic, Highly motivated, Confident individual. <br />
+🤔 - Always thinks about goals and dreams of life. <br />
+💬 - Ask me about Data science, Math, Algorithms, Food, Coffee, Hot Chocolate, Fitness, Music, Art, Content Creation, Travel, Photography. <br />
+⚡ - Fun fact: Eat cheese cake, chocolate and go to gym (repeat mode). <br />
+😄 - Pronouns: she/her. <br />
    
 <h3> 📫 Connect with me </h3>
 <p align="left">
