@@ -21,15 +21,6 @@
 ⚡ - Fun fact: Eat cheese cake, chocolate and go to gym (repeat mode). <br />
 😄 - Pronouns: she/her. <br />
    
-<h3> 🙋🏻‍♀️ Let's Connect </h3>
-<p align="left">
-    <a href="https://linkedin.com/in/muruganandhamd/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Divyadharshini Muruganandham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:divyadharshini0410@gmail.com" target="blank">
-        <img align="center" src="https://img.shields.io/badge/divyadharshini0410@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</p>
-
 <p align="center">
     <img src="https://github.com/varsharamesh82/varsharamesh82/blob/main/coding.gif" width="350" height="350" alt="varsha" />
     <img src="https://github.com/Divyadharsh/Divyadharsh/blob/main/0_Yb_BsikIKFAtuKj9.gif" width="350" height="350" />
@@ -96,9 +87,12 @@
 
 ### ⚙️ GitHub Analytics
 
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varsharamesh82&show_icons=true&locale=en&layout=compact&theme=merko" alt="varsharamesh82" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varsharamesh82&show_icons=true&locale=en&theme=merko" alt="varsharamesh82" /></p><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varsharamesh82&&theme=merko" alt="varsharamesh82" /></p> 
+   
+<h3> 🙋🏻‍♀️ Let's Connect </h3>
+<p align="left">
+    <a href="https://linkedin.com/in/muruganandhamd/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Divyadharshini Muruganandham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:divyadharshini0410@gmail.com" target="blank">
+        <img align="center" src="https://img.shields.io/badge/divyadharshini0410@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</p>
