@@ -19,7 +19,7 @@
 ⚡ - Fun fact: Eat cheese cake, chocolate and go to gym (repeat mode). <br />
 😄 - Pronouns: she/her. <br />
    
-<h3> 📫 Connect with me </h3>
+<h3> 🙋🏻‍♀️ Let's Connect </h3>
 <p align="left">
     <a href="https://linkedin.com/in/muruganandhamd/" target="blank">
         <img align="center" src="https://img.shields.io/badge/Divyadharshini Muruganandham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
