@@ -11,7 +11,7 @@
 
 👩🏻‍💻 About Me:
 
-👩🏻‍🎓 - Masters in Computer Science with specialization in Machine Learning, Data Science and Artificial Intelligence at the Northeastern University.<br />
+👩🏻‍🎓 - Masters in Computer Science with specialization in Machine Learning and Data Science at the Northeastern University.<br />
 🔭 - Passionate on Algorithms, Bringing interesting fact out of data, Automation, learning new Technologies. <br />
 🌱 - Calm, Composed, Deterministic, Highly motivated, Confident individual. <br />
 🤔 - Always thinks about goals and dreams of life. <br />
@@ -22,9 +22,9 @@
 <h3> 📫 Connect with me </h3>
 <p align="left">
     <a href="https://linkedin.com/in/muruganandhamd/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Varsha Ramesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:varsharamesh82@gmail.com" target="blank">
-        <img align="center" src="https://img.shields.io/badge/varsharamesh82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/Divyadharshini Muruganandham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:divyadharshini0410@gmail.com" target="blank">
+        <img align="center" src="https://img.shields.io/badge/divyadharshini0410@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
 
