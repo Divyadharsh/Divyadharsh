@@ -6,7 +6,7 @@
 <img src="https://camo.githubusercontent.com/08c037800f438485768a660c75c1ff65facb18c054b63483b615cc52c44b3195/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d766976656b39706174656c26636f6c6f723d626c756576696f6c6574267374796c653d666c6174" alt="Profile views" align='right'/> <a href="https://camo.githubusercontent.com/08c037800f438485768a660c75c1ff65facb18c054b63483b615cc52c44b3195/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d766976656b39706174656c26636f6c6f723d626c756576696f6c6574267374796c653d666c6174/"> </a> 
 <br/>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Data+Scientist;I'm+a+Data+Analyst;I'm+a+Machine+Learning+Engineer;I'm+a+Software+Developer;Python%20|%20Data+Structures%20|%20Algorithms%20|%20SQL%20|%20Mathematics%20;Experimenting%20|%20with%20|%20Data%20|%20and%20|%20new%20|%20technologies&center=true&width=500&height=25"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Data+Scientist;I'm+a+Data+Analyst;I'm+a+Machine+Learning+Engineer;I'm+a+Software+Developer;Python%20|%20Data+Structures%20|%20Algorithms%20|%20SQL%20|%20Mathematics;Experimenting%20with%20Data%20and%20new%20technologies&center=true&width=500&height=25"></a>
 </p>
 </div>
 <div align="left">
